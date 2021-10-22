@@ -5,7 +5,7 @@ Flowser is Flow Browser.
 
 | Start page | All transactions  | Transaction details |
 |---|---|---|
-| <img alt="Start page" src="./images/start-page.png" width="300" /> | <img alt="Start page" src="./images/transactions-and-logs.png" width="300" /> | <img alt="Start page" src="./images/transaction-details.png" width="300" /> |
+| <img alt="Start page" src="./images/start-page.png" width="300" /> | <img alt="Start page" src="./images/transactions.png" width="300" /> | <img alt="Start page" src="./images/transaction-details.png" width="300" /> |
 
 ### Requirements
 - Docker (optional to run dummy UI)
